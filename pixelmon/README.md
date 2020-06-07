@@ -23,5 +23,5 @@
 * Optifine - 光影前置mod
 * InventoryTweak - 一键整理背包
 
-**安装失败问题**
-* 如果forge下载安装过慢,可以用libraries里的文件替换C:\Users\[你的用户名]\AppData\Roaming\.minecraft\libraries的文件
+~~**安装失败问题**~~
+* ~~如果forge下载安装过慢,可以用libraries里的文件替换C:\Users\[你的用户名]\AppData\Roaming\.minecraft\libraries的文件~~
