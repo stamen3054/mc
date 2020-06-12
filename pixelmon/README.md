@@ -1,6 +1,7 @@
 # Pixelmon
 **安装**
 * 运行MinecraftLauncher.exe,运行一次minecraft 1.12.2,然后关闭
+* 确保java已经安装完毕
 * 运行forge-installer.jar,选install client,默认目录即可
 * 运行MinecraftLauncher.exe,版本选forge-1.12.2,等Minecraft启动后关闭
 * 到C:\Users\[你的用户名]\AppData\Roaming\.minecraft\mods目录下
